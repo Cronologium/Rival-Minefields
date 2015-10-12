@@ -1,0 +1,83 @@
+// ROADMAP
+
+// (X) Functii optimizate [tablouri tri-dimensionale]
+
+// (7/7) Bonusuri:
+
+// (X) [D]ig                - 0 [d = 100, 101, 102]      /w Stomp & StompCheck
+
+// (X) [T]hrow              - 1 [d = 110, 111, 112] (5s) /w Test
+
+// (X) [E]xpand             - 2 [d = 120, 121, 122]      /w Expand 
+
+// (X) [J]oker              - 3 [d = 130, 131, 132]      /w Joker
+
+// (X) [F]reeze             - 4 [d = 140, 141, 142] (3s) /w fout
+
+// (X) [W]hite (decolorate) - 5 [d = 150, 151, 152] (6s) /w fout
+
+// (X) [L]amp               - 6 [d = 160, 161, 162] (9s) /w Lamp Protocol
+
+// (4/4) Inteligenta artificiala:
+
+// (X) Incepator    [Level 1]
+
+// (X) Mediu        [Level 2]   
+
+// (X) Avansat      [Level 3]  
+
+// (X) Chuck Norris [...] 
+
+// (11/11) AI: Training Book:
+
+// (X) [S]tomp
+
+// (X) [H]it
+
+// (X) [E]xpand
+
+// (X) [J]oker
+
+// (X) [F]reeze
+
+// (X) [W]hite
+
+// (X) [L]amp
+
+// (X) [#]Mark
+
+// (X) [n]Defuse
+
+// (X) Display dependent movement (1.0 Series)
+
+// (X) Value & display dependent movement (2.0 Series) 
+
+// (X) Tutorial
+
+// (X) Suport Windows
+
+// (X) Unfinished game [expandu-i de vina]
+
+
+
+//AI bug list: - 1.0 Series [Creier asiatic]
+
+// (X) Constipatie (modificarea scopului)
+
+// (X) Jena de constipatie [sar gardu la vecinu] (limite)
+
+// (X) Creier Pane' (++ la dr (-_-') ) 
+
+// (X) Gandire democratica (acum is comunisti.)
+
+// (X) Naufragiat pe uscat (0 display nu intra in coada)
+
+
+
+//Ai bug list: - 2.0 Series [Creier ardelean]
+
+// (X) Creier Pane' (iar (-_-') )
+
+// (X) Amabilitate (se opresc inainte de final)
+
+// (X) Dual-brain (daca algoritmul S2 nu functioneaza, se trece la S1)
